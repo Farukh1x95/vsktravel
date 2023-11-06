@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7b0010fe.css",
+    "main.js": "/static/js/main.bef7fac7.js",
+    "static/media/heroBanner.png": "/static/media/heroBanner.4b7d6d2f10f27d9fbc33.png",
+    "static/media/taxi-features.jpg": "/static/media/taxi-features.f54b45a0ac086748e13d.jpg",
+    "static/media/i20.png": "/static/media/i20.a25ee2ed26c690034b1e.png",
+    "static/media/logo.png": "/static/media/logo.62a13596085ba42f0d21.png",
+    "static/media/wagon.jpg": "/static/media/wagon.eb58dce5a54890e2ee33.jpg",
+    "static/media/swift.webp": "/static/media/swift.425a80d73398b19af75d.webp",
+    "static/media/ertiga.jpg": "/static/media/ertiga.83318731284c675f09dd.jpg",
+    "static/media/etios.jpg": "/static/media/etios.6e3705239071d772b468.jpg",
+    "static/media/hundai-verna.jpg": "/static/media/hundai-verna.1847b58232a0a8045ef6.jpg",
+    "static/media/aura.webp": "/static/media/aura.69cfb76e91805e15498d.webp",
+    "static/media/innova.webp": "/static/media/innova.b556cf4272db216476b0.webp",
+    "index.html": "/index.html",
+    "main.7b0010fe.css.map": "/static/css/main.7b0010fe.css.map",
+    "main.bef7fac7.js.map": "/static/js/main.bef7fac7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b0010fe.css",
+    "static/js/main.bef7fac7.js"
+  ]
+}
